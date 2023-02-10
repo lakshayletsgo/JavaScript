@@ -13,6 +13,8 @@ console.log(name3)
 
 
 // Escape Sequence Character
+// They are one character not two 
+// They act as one character
 let Example = 'This is a \' example'
 console.log(Example)
 
