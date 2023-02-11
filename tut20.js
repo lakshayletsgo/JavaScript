@@ -12,7 +12,7 @@ console.log(arr)
 
 // Filter an array
 
-let arr = [2,10,20,30,41,24,10]
+let arr1 = [2,10,20,30,41,24,10]
 let n = arr.filter((x)=>{
     return x%10==0;
 })
